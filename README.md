@@ -10,7 +10,6 @@ This repo contains a list of languages that currently compile to or have their V
 :hatched_chick: - Stable for production usage.</br>
 
 ## Contents
-:hatched_chick: [.Net](#dotnet)</br>
 :hatched_chick: [AssemblyScript](#assemblyscript)</br>
 :hatched_chick: [C](#c)</br>
 :hatched_chick: [C#](#csharp)</br>
