@@ -15,9 +15,6 @@ This repo contains a list of languages that currently compile to or have their V
 :hatched_chick: [C#](#csharp)</br>
 :hatched_chick: [C++](#cpp)</br>
 :hatched_chick: [COBOL](#cobol)</br>
-:hatching_chick: [D](#d)</br>
-:hatching_chick: [Elixir](#elixir)</br>
-:hatching_chick: [F#](#fsharp)</br>
 :hatched_chick: [Go](#go)</br>
 :egg: [Haskell](#haskell)</br>
 :hatching_chick: [Java](#java)</br>
@@ -26,7 +23,6 @@ This repo contains a list of languages that currently compile to or have their V
 :hatching_chick: [Kotlin/Native](#kotlin)</br>
 :hatching_chick: [Lisp](#lisp)</br>
 :hatched_chick: [Lua](#lua)</br>
-:egg: [Nim](#nim)</br>
 :egg: [Ocaml](#ocaml)</br>
 :hatching_chick: [Perl](#perl)</br>
 :hatching_chick: [PHP](#php)</br>
