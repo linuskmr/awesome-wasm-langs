@@ -6,27 +6,16 @@
 :hatched_chick: - Stable for production usage.</br>
 
 ## Contents
-:hatched_chick: [AssemblyScript](#assemblyscript)</br>
 :hatched_chick: [C](#c)</br>
 :hatched_chick: [C#](#csharp)</br>
 :hatched_chick: [C++](#cpp)</br>
 :hatched_chick: [Go](#go)</br>
-:egg: [Haskell](#haskell)</br>
 :hatching_chick: [Java](#java)</br>
-:hatching_chick: [JavaScript](#javascript)</br>
-:egg: [Julia](#julia)</br>
 :hatching_chick: [Kotlin/Native](#kotlin)</br>
-:hatching_chick: [Lisp](#lisp)</br>
-:hatched_chick: [Lua](#lua)</br>
-:egg: [Ocaml](#ocaml)</br>
-:hatching_chick: [Perl](#perl)</br>
-:hatching_chick: [PHP](#php)</br>
 :hatching_chick: [Python](#python)</br>
-:hatching_chick: [Prolog](#prolog)</br>
 :hatching_chick: [Ruby](#ruby)</br>
 :hatched_chick: [Rust](#rust)</br>
 :hatching_chick: [Swift](#swift)</br>
-:hatched_chick: [TypeScript](#typescript)</br>
 ...
 
 --------------------
