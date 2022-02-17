@@ -12,57 +12,32 @@ This repo contains a list of languages that currently compile to or have their V
 ## Contents
 :hatched_chick: [.Net](#dotnet)</br>
 :hatched_chick: [AssemblyScript](#assemblyscript)</br>
-:egg: ~[Astro](#astro)~ `Unmaintained`</br>
-:hatched_chick: [Brainfuck](#brainfuck)</br>
 :hatched_chick: [C](#c)</br>
 :hatched_chick: [C#](#csharp)</br>
 :hatched_chick: [C++](#cpp)</br>
-:hatched_chick: [Clean](#clean)</br>
-:egg: [Co](#co)</br>
 :hatched_chick: [COBOL](#cobol)</br>
 :hatching_chick: [D](#d)</br>
-:hatching_chick: [Eel](#eel)</br>
 :hatching_chick: [Elixir](#elixir)</br>
 :hatching_chick: [F#](#fsharp)</br>
-:egg: [Faust](#faust)</br>
-:egg: [Forest](#forest)</br>
-:hatched_chick: [Forth](#forth)</br>
 :hatched_chick: [Go](#go)</br>
-:egg: [Grain](#grain)</br>
 :egg: [Haskell](#haskell)</br>
 :hatching_chick: [Java](#java)</br>
 :hatching_chick: [JavaScript](#javascript)</br>
 :egg: [Julia](#julia)</br>
-:hatching_chick: ~[Idris](#idris)~ `Unmaintained`</br>
 :hatching_chick: [Kotlin/Native](#kotlin)</br>
-:egg: [Kou](#kou)</br>
 :hatching_chick: [Lisp](#lisp)</br>
-:hatched_chick: [Lobster](#lobster)</br>
 :hatched_chick: [Lua](#lua)</br>
-:hatching_chick: [Lys](#lys)</br>
-:hatched_chick: [Never](#never)</br>
 :egg: [Nim](#nim)</br>
 :egg: [Ocaml](#ocaml)</br>
 :hatching_chick: [Perl](#perl)</br>
 :hatching_chick: [PHP](#php)</br>
-:egg: [Plorth](#plorth)</br>
-:hatching_chick: [Poetry](#poetry)</br>
 :hatching_chick: [Python](#python)</br>
 :hatching_chick: [Prolog](#prolog)</br>
 :hatching_chick: [Ruby](#ruby)</br>
 :hatched_chick: [Rust](#rust)</br>
-:hatching_chick: [Scheme](#scheme)</br>
-:hatching_chick: [Scopes](#scopes)</br>
-:hatching_chick: ~[Speedy.js](#speedyjs)~ `Unmaintained`</br>
 :hatching_chick: [Swift](#swift)</br>
-:hatching_chick: ~[Turboscript](#turboscript)~ `Unmaintained`</br>
 :hatched_chick: [TypeScript](#typescript)</br>
-:hatched_chick: ~[Wah](#wah)~ `Unmaintained`</br>
-:hatching_chick: ~[Walt](#walt)~ `Unmaintained`</br>
-:hatching_chick: ~[Wam](#wam)~ `Unmaintained`</br>
-:hatched_chick: [WebAssembly](#webassembly)</br>
-:egg: ~[Wracket](#wracket)~ `Unmaintained`</br>
-:hatched_chick: [Zig](#zig)</br>
+...
 
 --------------------
 
