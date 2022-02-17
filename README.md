@@ -1,8 +1,4 @@
-# Awesome WebAssembly Languages ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-WebAssembly, or wasm for short, is a low-level bytecode format that runs in the browser just like JavaScript.
-It is designed to be faster to parse than JavaScript, as well as faster to execute which makes it a suitable compilation target for new and existing languages.
-
-This repo contains a list of languages that currently compile to or have their VMs in WebAssembly(wasm)  :octocat:
+# Awesome WebAssembly Languages
 
 #### Legend
 :egg: - Work in progress.</br>
